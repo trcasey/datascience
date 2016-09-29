@@ -6,4 +6,4 @@ _Trent Casey_
 
 2. Kaggle Competition: Airbnb New User Bookings - In this challenge, you are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA. https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
-3. Sentiment Analysis - I'm a big fan of reading books on my Amazon Kindle e-reader. Using data from Julian McAuley at UCSD, I would like to perform a sentiment analysis using reviews of books in the Kindle store.
+3. Sentiment Analysis - I'm a big fan of reading books on my Amazon Kindle e-reader. Using data from Julian McAuley at UCSD, I would like to perform a sentiment analysis using reviews of books in the Kindle store. 
