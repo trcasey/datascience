@@ -21,3 +21,8 @@
 * [Human Body Temperature](https://github.com/trcasey/datascience/tree/master/statistics_project_1)
 * [Examine Racial Discrimination](https://github.com/trcasey/datascience/tree/master/statistics_project_2)
 * [Reduce Hospital Readmissions](https://github.com/trcasey/datascience/tree/master/statistics_project_3)
+
+7.1 Supervised Learning
+
+* [Linear Regression Mini Project: Boston Housing](https://github.com/trcasey/datascience/tree/master/linear_regression/linear_regression)
+* Logistic Regression: Heights and Weights
