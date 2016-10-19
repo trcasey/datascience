@@ -22,6 +22,8 @@
 * [Examine Racial Discrimination](https://github.com/trcasey/datascience/tree/master/statistics_project_2)
 * [Reduce Hospital Readmissions](https://github.com/trcasey/datascience/tree/master/statistics_project_3)
 
+6 [Capstone Milestone Report](https://github.com/trcasey/denver_housing_predictor/blob/master/6.%20Capstone%20Milestone%20Report.ipynb)
+
 7.1 Supervised Learning
 
 * [Linear Regression Mini Project: Boston Housing](https://github.com/trcasey/datascience/tree/master/linear_regression/linear_regression)
