@@ -27,4 +27,5 @@
 7.1 Supervised Learning
 
 * [Linear Regression Mini Project: Boston Housing](https://github.com/trcasey/datascience/tree/master/linear_regression/linear_regression)
-* Logistic Regression: Heights and Weights
+* [Logistic Regression: Heights and Weights](https://github.com/trcasey/datascience/tree/master/logistic_regression)
+* [Naive Bayes: Predicting movie ratings from reviews](https://github.com/trcasey/datascience/tree/master/naive_bayes)
