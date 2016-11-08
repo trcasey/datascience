@@ -29,3 +29,7 @@
 * [Linear Regression Mini Project: Boston Housing](https://github.com/trcasey/datascience/tree/master/linear_regression/linear_regression)
 * [Logistic Regression: Heights and Weights](https://github.com/trcasey/datascience/tree/master/logistic_regression)
 * [Naive Bayes: Predicting movie ratings from reviews](https://github.com/trcasey/datascience/tree/master/naive_bayes)
+
+7.2 Unsupervised Learning
+
+* [Clustering: Customer Segmentation](https://github.com/trcasey/datascience/blob/master/clustering/Mini_Project_Clustering.ipynb)
